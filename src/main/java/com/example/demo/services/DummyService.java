@@ -8,4 +8,8 @@ public class DummyService {
     public String getMsg() {
         return "Up and at 'em!";
     }
+
+    public String getMsg2() {
+        return "Up and at 'em!";
+    }
 }
