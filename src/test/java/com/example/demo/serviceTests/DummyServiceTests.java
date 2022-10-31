@@ -25,4 +25,11 @@ public class DummyServiceTests {
         Assertions.assertEquals("Up and at 'em!", ds.getMsg());
 
     }
+
+    @Test
+    public void testMsg2() {
+
+        Assertions.assertEquals("Up and at 'em!", ds.getMsg2());
+
+    }
 }
